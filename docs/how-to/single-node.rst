@@ -1,6 +1,12 @@
 How to install MicroCeph on a single node
 =========================================
 
+.. only:: integrated
+
+   .. note::
+      
+   MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
+
 This guide will show how to install MicroCeph on a single machine, thereby
 creating a single-node cluster.
 
