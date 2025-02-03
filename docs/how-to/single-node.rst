@@ -3,7 +3,7 @@ How to install MicroCeph on a single node
 
 .. only:: integrated
 
-   ... note::
+.. note::
       
    MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
 
