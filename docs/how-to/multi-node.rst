@@ -2,6 +2,12 @@
 Multi-node install
 ==================
 
+.. only:: integrated
+
+   .. note::
+      
+      MicroCloud users should disregard the instructions on this page as irrelevant to a MicroCloud setup.
+
 This tutorial will show how to install MicroCeph on three machines,
 thereby creating a multi-node cluster. For this tutorial, we will
 utilise physical block devices for storage.
