@@ -5,7 +5,7 @@ First steps with MicroCeph
 
    .. note::
       
-      MicroCloud users can disregard the instructions on this page, because MicroCloud setup handles the installation and configuration of MicroCeph.
+      MicroCloud users can disregard the instructions on this page because the MicroCloud setup process handles MicroCeph installation and configuration.
 
 This tutorial will guide you through your first steps with MicroCeph. You will use MicroCeph to deploy a Ceph cluster on a single node and to store
 a JPEG  image, in a simple storage service (S3) bucket.

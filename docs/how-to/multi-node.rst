@@ -6,7 +6,7 @@ Multi-node install
 
    .. note::
       
-      MicroCloud users can disregard the instructions on this page, because MicroCloud setup handles the installation and configuration of MicroCeph.
+      MicroCloud users can disregard the instructions on this page because the MicroCloud setup process handles MicroCeph installation.
 
 This tutorial will show how to install MicroCeph on three machines,
 thereby creating a multi-node cluster. For this tutorial, we will
